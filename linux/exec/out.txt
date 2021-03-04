@@ -1,0 +1,6 @@
+total 36K
+-rwxrwxr-x 1 peng peng  20K 2月  10 15:15 exec
+-rw-rw-r-- 1 peng peng  435 2月  10 15:15 exec.c
+-rw-rw-r-- 1 peng peng 6.7K 2月  10 15:15 exec.o
+-rw-rw-r-- 1 peng peng  264 2月  10 15:08 makefile
+-r-sr-s--- 1 peng peng    0 2月  10 15:15 out.txt
